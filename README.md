@@ -36,10 +36,6 @@ The following are the best bundles to **save upto 65% (up to $1087 savings)** wi
 Here is the high level workflow.
 
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/cc5594b5-42c2-4c56-be21-6441f849f537" width="65%" />
-</p>
-
 ## Documentation
 
 Current k8s version for CKA, CKAD, and CKS exam: 1.30
